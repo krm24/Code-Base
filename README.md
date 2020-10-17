@@ -1,4 +1,2 @@
 # Hello-World
-first project
- 
- just learning the basics
+Make your folder and keep codes for algorithms and data structures 
